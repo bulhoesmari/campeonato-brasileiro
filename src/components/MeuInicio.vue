@@ -13,7 +13,6 @@
 <script>
 export default {
     name: 'MeuInicio',
-    seila
 }
 </script>
 
