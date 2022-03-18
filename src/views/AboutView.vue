@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>oieoie</h1>
-    <h2>kdfnkdfn</h2>
+    <h1>Modificação de teste de merge</h1>
+    <h2>Vai dar conflito</h2>
+    <p>paragrafo de teste</p>
   </div>
 </template>
